@@ -11,7 +11,7 @@ Integrantes del Equipo:
   
 # Redes Sociales:
 * Correo Electrónico: codevssr@gmail.com
-* Facebook: 
+* Facebook: https://www.facebook.com/profile.php?id=100092344402377&is_tour_dismissed=true
 * Instagram: 
 * Twitter: 
 
