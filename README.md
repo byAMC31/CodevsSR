@@ -23,7 +23,7 @@ Integrantes del Equipo:
 </head>
 <body>
     <header>
-     <img src="https://www.bbvaspark.com/contenido/wp-content/uploads/2022/07/HerramientasUX_04-1-scaled.jpg" alt="CodevsSR logo" style="width: 50%; height: auto;">
+     <img src="https://www.bbvaspark.com/contenido/wp-content/uploads/2022/07/HerramientasUX_04-1-scaled.jpg" alt="CodevsSR logo" style="width: 50%; height: auto">
   
      <h1>CodeCreators</h1>
         <nav>
