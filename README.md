@@ -41,7 +41,7 @@ Integrantes del Equipo:
     </section>
     <section id="mision">  
         <h2>Misión</h2>
-        <pLa misión de CodevsSR es proporcionar soluciones tecnológicas personalizadas de alta calidad a sus clientes, a través de un enfoque centrado en el cliente y la innovación constante. La empresa se compromete a trabajar en equipo con sus clientes para entender sus necesidades y proporcionar soluciones tecnológicas a medida que les permitan mejorar su eficiencia y productividad. CodevsSR se esfuerza por mantenerse actualizado con las últimas tendencias y tecnologías en el mundo del desarrollo de software, para asegurarse de ofrecer siempre soluciones innovadoras y eficientes que satisfagan las necesidades de sus clientes.</p>
+        <p>La misión de CodevsSR es proporcionar soluciones tecnológicas personalizadas de alta calidad a sus clientes, a través de un enfoque centrado en el cliente y la innovación constante. La empresa se compromete a trabajar en equipo con sus clientes para entender sus necesidades y proporcionar soluciones tecnológicas a medida que les permitan mejorar su eficiencia y productividad. CodevsSR se esfuerza por mantenerse actualizado con las últimas tendencias y tecnologías en el mundo del desarrollo de software, para asegurarse de ofrecer siempre soluciones innovadoras y eficientes que satisfagan las necesidades de sus clientes.</p>
 </section>
 <section id="valores">
 <h2>Valores</h2>
