@@ -10,10 +10,10 @@ Integrantes del Equipo:
   
   
 # Redes Sociales:
-* Correo Electrónico: 
-* Facebook: CodevsSR
-* Instagram: @CodevsSR
-* Twitter: @CodevsSR
+* Correo Electrónico: codevssr@gmail.com
+* Facebook: 
+* Instagram: 
+* Twitter: 
 
 # Sitio web
 <!DOCTYPE html>
