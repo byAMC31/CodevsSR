@@ -8,7 +8,7 @@ Integrantes del Equipo:
   * Ramirez Caballero Jose Manuel
   
   
-# RedesSociales:
+# Redes Sociales:
 * Correo Electrónico: 
 * Facebook: CodevsSR
 * Instagram: @CodevsSR
