@@ -39,8 +39,7 @@ Integrantes del Equipo:
         <h2>Visión</h2>
         <p>CodevsSR es una empresa de desarrollo de software que se enfoca en proporcionar soluciones personalizadas y de alta calidad para sus clientes, a través de un equipo de profesionales altamente capacitados y comprometidos con la excelencia. Con una cultura de trabajo en equipo y un enfoque en mantenerse actualizados con las últimas tendencias y tecnologías, CodevsSR se dedica a satisfacer las necesidades de sus clientes y proporcionar soluciones innovadoras y eficientes en el mundo del desarrollo de software.</p>
     </section>
-    <section id="mision">
-      
+    <section id="mision">  
         <h2>Misión</h2>
         <pLa misión de CodevsSR es proporcionar soluciones tecnológicas personalizadas de alta calidad a sus clientes, a través de un enfoque centrado en el cliente y la innovación constante. La empresa se compromete a trabajar en equipo con sus clientes para entender sus necesidades y proporcionar soluciones tecnológicas a medida que les permitan mejorar su eficiencia y productividad. CodevsSR se esfuerza por mantenerse actualizado con las últimas tendencias y tecnologías en el mundo del desarrollo de software, para asegurarse de ofrecer siempre soluciones innovadoras y eficientes que satisfagan las necesidades de sus clientes.</p>
 </section>
